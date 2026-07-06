@@ -41,7 +41,7 @@ I’m building my portfolio to show the projects I created during my Data Analys
   
 - [SQL] - SQL use numeric filtering, calculations and functions to extract targeted datasets. [View Project](sql examples queries)
 
-- [Python] - Use Pandas and numpy to apply on datasets. [View Project](pthon coding)
+- [Python] - Use Pandas and numpy to apply on datasets. [View Project](python coding)
 
 ---
   
