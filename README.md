@@ -1,5 +1,11 @@
-# 👋Hi, I’m Enestazia, 
+<img width="1920" height="800" alt="da-banner" src="https://github.com/user-attachments/assets/79557134-4e78-4b87-9d3f-481c65ddf64a" />
+
+# Data analyst Portfolio
+
+## 👋Hi, I’m Enestazia, 
 ### Data Technician Skills Bootcamp Graduate
+
+<hr style="background-color: #9b59b6; height: 3px; border: none;">
 
 Driven and aspiring Data Analyst with skills in Excel and SQL.
 
@@ -8,6 +14,8 @@ I’m building my portfolio to show the projects I created during my Data Analys
 ---
 
 ## 🚀 What I have learnt: 
+
+<hr style="background-color: #9b59b6; height: 3px; border: none;">
 
 - Excel and data basics - learn features and functions of MS Excel and core data handling. 
 
@@ -19,9 +27,13 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 ---
 
-## 📊Projects I have completed: 
+## 📊Projects I have completed:
 
-- [Excel] – Data sorting, formatting, and creating formulas to build foundational spreadsheets. [View Project](Link)
+<hr style="background-color: #9b59b6; height: 3px; border: none;">
+
+- [Excel] – Data sorting, formatting, and creating formulas to build foundational spreadsheets.
+
+ <img width="1152" height="688" alt="Excel_1" src="https://github.com/user-attachments/assets/11eeea6e-2e60-4c5b-a356-ac2376c8833d" />
 
 - [Tableau] - Use visulation tools to intercept data. [View Project](Link)
 
@@ -34,6 +46,9 @@ I’m building my portfolio to show the projects I created during my Data Analys
 ---
   
 ## 🧰 Skills and Tools
+
+<hr style="background-color: #9b59b6; height: 3px; border: none;">
+
 - Excel 
 - SQL
 - Basic Python
@@ -42,6 +57,9 @@ I’m building my portfolio to show the projects I created during my Data Analys
 ---
  
 ## 📫 Connect with me 
-- LinkedIn: www.linkedin.com/in/enestizia-w-3b2ba8165
+
+<hr style="background-color: #9b59b6; height: 3px; border: none;">
+
+- LinkedIn: [Enestazia Linkedin](https://www.linkedin.com/in/enestizia-w-3b2ba8165)
 
   
