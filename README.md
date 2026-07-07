@@ -55,9 +55,18 @@ I’m building my portfolio to show the projects I created during my Data Analys
   
 [sql examples queries](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/ea0e32491668e8b7cb81d4f035367adef32f56fa/sql%20examples%20queries)
 
-- [Python] - Introduction to python and use Pandas and numpy to apply on datasets.
+**Scenario**: Count Cities in USA: Scenario: You've been tasked with conducting a demographic analysis of cities in the United States.
+[World database]()
 
-  [Python codes used](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/b28882c1e6fd42db9156b794713553394a125f17/python%20coding)
+- [Python] - using colab for introduction to python and use Pandas and numpy to apply on datasets.
+
+  [Python coding](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/b28882c1e6fd42db9156b794713553394a125f17/python%20coding)
+
+  [Student dataset assignment](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/1974a628db235e4a4164acc17faf48144aae319d/day_3_task_1_pynb.ipynb)
+
+  [GPD (nominal) per Capita dataset assignment](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/cb2142348a1c488da90c11d600273feecec7f769/bootcamp_w6_d4_task_1.ipynb)
+
+  [student dataset visualisation](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/fc152e81ef2e7bac3c5490e94d7cb75d943acefb/bootcamp_w6_d4_task_2.ipynb)
 
 ---
   
