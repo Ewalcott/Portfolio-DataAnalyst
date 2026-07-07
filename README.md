@@ -21,6 +21,8 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 - Python / Google Colab - Use basic python for simple syntax to analyse and automate database files.
 
+- Azure - Introduction to azure cloud and data fundementals.
+
 - SQL / MySQL Workbench - Use basic mysql coding to how to create, read and update database records.
 
 - Tableau / Power BI dashboards - How to perform and conduct data analysis through visulaution tools.
@@ -47,7 +49,7 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 - [Power BI] - using XtremeLabs to construct functional reporting dashboards to deliver clear data insight.
 
-[Lab 2 - Load transform data][Link](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/0889662350422acfa8e8b94db1bf2d51bf084ccb/Screenshot%202026-07-07%20110312.png)
+[Lab 2 - Load transform data](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/0889662350422acfa8e8b94db1bf2d51bf084ccb/Screenshot%202026-07-07%20110312.png)
 
 [lab 7 Design a report](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/tree/6f78cc92c7dc2f78e110a18b3c7d9cffe454259d/images)
   
@@ -55,8 +57,7 @@ I’m building my portfolio to show the projects I created during my Data Analys
   
 [sql examples queries](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/ea0e32491668e8b7cb81d4f035367adef32f56fa/sql%20examples%20queries)
 
-**Scenario**: Count Cities in USA: Scenario: You've been tasked with conducting a demographic analysis of cities in the United States.
-[World database]()
+[World database images](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/tree/d03ef63bebeb073ddaf4b92650cca017e9b1bd83/sql%20images)
 
 - [Python] - using colab for introduction to python and use Pandas and numpy to apply on datasets.
 
