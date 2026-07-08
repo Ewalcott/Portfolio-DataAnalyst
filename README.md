@@ -49,6 +49,11 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 - [Power BI] - using XtremeLabs to construct functional reporting dashboards to deliver clear data insight.
 
+<img width="1152" height="688" alt="dashboard bi" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e565142756c271746b10b256dffcc78d7becbd09/dashboard%20bi.png"/>
+
+If you already have a PBI account, view and interact with this live dashboard here.
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIzN2I3NDAtN2NjZi00MzJlLWJkNzUtODAxMGY3ZTY5YjQ1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
 [Lab 2 - Load transform data](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/0889662350422acfa8e8b94db1bf2d51bf084ccb/Screenshot%202026-07-07%20110312.png)
 
 [lab 7 Design a report](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/tree/6f78cc92c7dc2f78e110a18b3c7d9cffe454259d/images)
