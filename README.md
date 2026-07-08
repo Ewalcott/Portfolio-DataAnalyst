@@ -41,7 +41,7 @@ Using the SUM function is =SUM(j2:j1001) in cell "P10"
 
 Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
- <img width="500" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Screenshot%202026-07-07%20100109.png?raw=true"/>
+ <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Excel_1.png?raw=true"/>
 
 
  [Excel 1](https://github.com/user-attachments/assets/11eeea6e-2e60-4c5b-a356-ac2376c8833d")
@@ -51,7 +51,7 @@ Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
 This is a Spotify Music Analytics Dashboard that evaluates audio characteristics, artist performance, track popularity, and user engagement trends across different musical genres.
 
- <img width="1152" height="688" alt="Excel_1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/c1fe7e8bd9c47019c2217ec8c633ef1cbfbc1269/spotify%20db.png" />
+ <img width="850" height="400" alt="Excel_1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/c1fe7e8bd9c47019c2217ec8c633ef1cbfbc1269/spotify%20db.png" />
 
 If you have a Tableau account, view the live dashboard here
 [Spotify trend Dashboard](https://public.tableau.com/app/profile/enestazia.walcott/viz/spotifyfeatures/Dashboard1?publish=yes)
