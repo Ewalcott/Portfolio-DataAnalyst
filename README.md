@@ -3,13 +3,13 @@
 # Data analyst Portfolio
 
 ## 👋Hi, I’m Enestazia, 
-### Data Technician Skills Bootcamp Graduate
+**Data Technician Skills Bootcamp Graduate**
 
 <hr style="background-color: #9b59b6; height: 3px; border: none;">
 
-Driven and aspiring Data Analyst with skills in Excel and SQL.
+I learned how to collect, organize, and understand business information. During this course, I practiced how to take data and turn them into clear, helpful charts and reports that companies can use to make decisions.
 
-I’m building my portfolio to show the projects I created during my Data Analyst course. 
+Driven and aspiring Data Analyst with skills in Excel and SQL. I’m building my portfolio to show the projects I created during my Data Analyst course. 
 
 ---
 
