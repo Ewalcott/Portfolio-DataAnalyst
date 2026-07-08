@@ -1,4 +1,4 @@
-<img width="1920" height="800" alt="da-banner" src="https://github.com/user-attachments/assets/79557134-4e78-4b87-9d3f-481c65ddf64a" />
+<img width="1280" height="320" alt="da-banner" src="https://github.com/user-attachments/assets/79557134-4e78-4b87-9d3f-481c65ddf64a" />
 
 # Data Analyst Course Portfolio
 
