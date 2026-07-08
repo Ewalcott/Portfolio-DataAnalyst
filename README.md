@@ -21,9 +21,9 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 - Python / Google Colab - Use basic python for simple syntax to analyse and automate database files.
 
-- Azure - Introduction to azure cloud and data fundementals.
+- Azure - Introduction Microsoft Azure for big data and cloud computing concepts.
 
-- SQL / MySQL Workbench - Use basic mysql coding to how to create, read and update database records.
+- SQL / MySQL Workbench - Use basic SQL coding to create, read and update database records.
 
 - Tableau / Power BI dashboards - How to perform and conduct data analysis through visulaution tools.
 
@@ -35,7 +35,7 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 - **[Excel]** – Data sorting, formatting, and creating formulas to build foundational spreadsheets.
   
-Using the SUM function 
+Using the SUM function in cell "P10"
 
  <img width="500" height="300" alt="sum" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/34d3a20301cc9de24aa8838549a9fccdfe1eb52d/Screenshot%202026-07-07%20095300.png"/>
 
@@ -55,6 +55,7 @@ This is a Spotify Music Analytics Dashboard that evaluates audio characteristics
 
 If you have a Tableau account, view the live dashboard here
 [Spotify trend Dashboard](https://public.tableau.com/app/profile/enestazia.walcott/viz/spotifyfeatures/Dashboard1?publish=yes)
+
 
 - **[Power BI]** - using XtremeLabs to construct functional reporting dashboards to deliver clear data insight.
 
@@ -92,6 +93,12 @@ World database from the lab 7
 - SQL
 - Basic Python
 - Data Visualisation tools
+
+---
+
+## Conclusion
+
+The 8-week bootcamp provides a baseline knowledge into employer-ready expertise. This course helped me understand with continuos practice in coding and experiment with data sources projects to improve my experience in data analysis field.
 
 ---
  
