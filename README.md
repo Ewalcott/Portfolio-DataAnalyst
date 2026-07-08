@@ -66,10 +66,10 @@ If you already have a PBI account, view and interact with this live dashboard he
   
 - **[SQL]** - SQL use numeric filtering, calculations and functions to extract targeted datasets.
   
-[sql examples queries](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/ea0e32491668e8b7cb81d4f035367adef32f56fa/sql%20examples%20queries)
+[SQL examples queries](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/ea0e32491668e8b7cb81d4f035367adef32f56fa/sql%20examples%20queries)
 
 World database from the lab 7
- <img width="800" height="500" alt="Excel_1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e7ed69297a8bb59ddf5cff4c3d2665aa61631b0d/images/lab%207%202.png"/>
+ <img width="800" height="500" alt="LAB 7" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e7ed69297a8bb59ddf5cff4c3d2665aa61631b0d/images/lab%207%202.png"/>
 
 
 - **[Python]** - Using colab for introduction to python and use Pandas and numpy to apply on datasets.
