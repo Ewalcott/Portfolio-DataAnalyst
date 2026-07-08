@@ -37,11 +37,11 @@ Driven and aspiring Data Analyst with skills in Excel and SQL. I’m building my
   
 Using the SUM function is =SUM(j2:j1001) in cell "P10"
 
- <img width="500" height="210" alt="sum" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/sum%20function.png?raw=true"/>
+ <img width="400" height="200" alt="sum" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/sum%20function.png?raw=true"/>
 
 Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
- <img width="500" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/3cbe05c3c5181e5e48eaf52d61949b0fc5aae9c6/Screenshot%202026-07-07%20100109.png"/>
+ <img width="500" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Screenshot%202026-07-07%20100109.png?raw=true"/>
 
 
  [Excel 1](https://github.com/user-attachments/assets/11eeea6e-2e60-4c5b-a356-ac2376c8833d")
