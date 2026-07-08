@@ -113,7 +113,3 @@ The 8-week bootcamp provides a baseline knowledge into employer-ready expertise.
 
 - LinkedIn: [Enestazia Linkedin](https://www.linkedin.com/in/enestizia-w-3b2ba8165)
 
-<div style="width: 800px; height: 212px; overflow: hidden; position: relative;">
-  <img src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/footer%20banner.png?raw=true" style="width: 100%; position: absolute; top: -10px; left: 0; object-fit: cover;">
-</div>
-  
