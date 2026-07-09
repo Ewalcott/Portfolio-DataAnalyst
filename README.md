@@ -43,7 +43,7 @@ Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
  <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Screenshot%202026-07-07%20100109.png?raw=true"/>
 
-<img width="400" height="200" alt="excel 1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/a98b924d76d7254cb5514a458665ca3561a3ad21/Excel_1.png/>
+<img width="400" height="200" alt="excel 1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/a98b924d76d7254cb5514a458665ca3561a3ad21/Excel_1.png"/>
 
 ---
 
@@ -51,7 +51,7 @@ Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
 This is a Spotify Music Analytics Dashboard that evaluates audio characteristics, artist performance, track popularity, and user engagement trends across different musical genres.
 
-<img width="800" height="212" alt="sum" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/spotify%20db.png?raw=true/>
+<img width="800" height="212" alt="sum" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/spotify%20db.png?raw=true"/>
 
 If you have a Tableau account, view the live dashboard here
 [Spotify trend Dashboard](https://public.tableau.com/app/profile/enestazia.walcott/viz/spotifyfeatures/Dashboard1?publish=yes)
@@ -62,7 +62,7 @@ If you have a Tableau account, view the live dashboard here
 
 This is a Retail sales performance dashboard, that tracks key business data like sales revenue, customer purchase trends, product categories, and geographical performance.
 
-<img width="800" height="212" alt="power bi" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/dashboard%20bi.png?raw=true/>
+<img width="800" height="212" alt="power bi" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/dashboard%20bi.png?raw=true"/>
 
 If you already have a PBI account, view and interact with this live dashboard here. [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIzN2I3NDAtN2NjZi00MzJlLWJkNzUtODAxMGY3ZTY5YjQ1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
