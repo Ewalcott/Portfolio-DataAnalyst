@@ -79,7 +79,7 @@ Using basic SQL codes to understand on what it does, how to use when getting spe
 
 This database I had to navigated through within XtremeLabs, this demonstrates how to calculate information like profit directly within a specific chart or table, able to modify the main database, similar to adding a quick formula in Excel. 
 
- <img width="800" height="300" alt="lab 7 1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e7ed69297a8bb59ddf5cff4c3d2665aa61631b0d/images/lab%207%202.png" />
+ <img width="800" height="300" alt="lab 7 1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/images/lab%207%201.png?raw=true" />
 
   <img width="800" height="300" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/images/lab%207%204.png?raw=true" />
 
