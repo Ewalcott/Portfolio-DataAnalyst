@@ -45,7 +45,7 @@ Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
 This is the retail sales dataset for the fiest project to understand excel function as seen above and know how to navigate the informaion by applying a table format and filter. The is to create total sales column and calculation for a real busines scenario to understand the outcome of the retail produduction.
 
- <img width="1100" height="600" alt="excel 1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/a98b924d76d7254cb5514a458665ca3561a3ad21/Excel_1.png" />
+ <img width="1100" height="600" alt="excel 1" src="https://github.com/Ewalcott/Portfolio-DataAnalyst/blob/main/Excel_1.png?raw=true" />
 
 ---
 
